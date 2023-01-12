@@ -1,0 +1,2 @@
+[install.bat] - https://pastebin.com/raw/9jaYfHkY
+[clock.py] - https://pastebin.com/raw/eAAh5ys8
